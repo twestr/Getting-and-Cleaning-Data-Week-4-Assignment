@@ -1,4 +1,4 @@
-# Description of "tidy data set"
+# Description of "tidy data set" 
 ____
 
 ### Variables

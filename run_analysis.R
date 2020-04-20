@@ -1,5 +1,5 @@
 #install.packages("dplyr")
-library(dplyr)
+library(dplyr) 
 
 setwd("C:/Users/TW/Desktop/Coursera/3_Week4_Assignment/getdata_projectfiles_UCI HAR Dataset/UCI HAR Dataset/")
 
